@@ -42,5 +42,39 @@ $S_{max}$ = Maximum allowed size of $S_{xy}$\
 ---
 ## Code
 The code is available in "matlab code" folder\
-[**Code**]()
+[**Code**](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/tree/main/matalb%20code)
 
+---
+
+## Sample outputs
+### Input
+![input image](images\IMAGE.jpg)
+<p align = "center">The input image</p>
+
+### Median Filtering
+
+![Median filtering](images\median_filter_output.jpg )
+<p align = "center">Greayscale image with noise and median filtered output</p>
+
+![Median filtering with diffrent noise](images\median_filter_noise_vary.jpg)
+<p align = "center">Median filtering with various noise levels</p>
+
+![function vs inbuilt](images\defined_vs_inbuilt.jpg)
+<p align = "center">Defined Medianfilter function vs inbuilt function</p>
+
+## Adaptive Median Filtering
+![Adaptive Median filtering](images\adaptive_filter_output.jpg )
+<p align = "center">Greayscale image with noise and adaptive median filtered output</p>
+
+![Adaptive Median filtering with diffrent noise](images\adaptive_filter_noise_vary.jpg)
+<p align = "center">Adaptive median filtering with various noise levels</p>
+
+## A few Notes
+1. For low noise levels both median and adaptive median filters works efficiently, but as noise levels increases the adaptive filter does a better job in denoising than median filter.
+
+2. The signal to noise ratio of the output from median filter is less than that from adaptive median filter.
+
+## Drawbacks
+1. Effective only when the noise is impulse noise (salt and pepper).
+2. The median filter's output quality deteriorates when the noise is more than 20%.
+3. For large kernel size, there is no proper smoothening of the image instead valuable information from the image gets blured.
