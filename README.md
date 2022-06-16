@@ -53,7 +53,7 @@ The code is available in "matlab code" folder\
 
 ### Median Filtering
 
-![Median filtering](images\median_filter_output.jpg )
+![Median filtering](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/IMAGE.jpg)
 <p align = "center">Greayscale image with noise and median filtered output</p>
 
 ![Median filtering with diffrent noise](images\median_filter_noise_vary.jpg)
