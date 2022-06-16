@@ -1,9 +1,20 @@
 # Adaptive Median and Median Filtering
 
 ## Table of Contents
-1. [Noise](#noise)
-    1.1[Image Noise](#image-noise)
-    
+1. [Noise](#noise)\
+    1.1. [Image Noise](#image-noise)\
+    1.2. [Salt & pepper noise](#salt--pepper-noise)
+2. [Median filtering](#median-filtering)\
+    2.1. [Algorithm](#algorithm)
+3. [Adaptive Median Filtering](#adaptive-median-filtering)
+4. [Code](#code)
+5. [Sample outputs](#sample-outputs)\
+    5.1. [Input](#input)\
+    5.2. [Median Filtering](#median-filtering-1)\
+    5.3. [Adaptive Median Filtering](#adaptive-median-filtering-1)
+6. [Drawbacks](#drawbacks)
+
+
 ## Noise
 ### Image Noise
 Image noise is random variation of brightness or color information in  images, and is usually an aspect of electronic noise.. It is an undesirable by-product of image capture that obscures the desired information.
@@ -66,7 +77,7 @@ The code is available in "matlab code" folder\
 ![function vs inbuilt](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/defined_vs_inbuilt.jpg)
 <p align = "center">Defined Medianfilter function vs inbuilt function</p>
 
-## Adaptive Median Filtering
+### Adaptive Median Filtering
 ![Adaptive Median filtering](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/adaptive_filter_output.jpg)
 <p align = "center">Greayscale image with noise and adaptive median filtered output</p>
 
