@@ -48,25 +48,25 @@ The code is available in "matlab code" folder\
 
 ## Sample outputs
 ### Input
-![input image](images\IMAGE.jpg)
+![input image](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/IMAGE.jpg)
 <p align = "center">The input image</p>
 
 ### Median Filtering
 
-![Median filtering](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/IMAGE.jpg)
+![Median filtering]https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/median_filter_output.jpg)
 <p align = "center">Greayscale image with noise and median filtered output</p>
 
-![Median filtering with diffrent noise](images\median_filter_noise_vary.jpg)
+![Median filtering with diffrent noise](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/median_filter_noise_vary.jpg)
 <p align = "center">Median filtering with various noise levels</p>
 
-![function vs inbuilt](images\defined_vs_inbuilt.jpg)
+![function vs inbuilt](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/defined_vs_inbuilt.jpg)
 <p align = "center">Defined Medianfilter function vs inbuilt function</p>
 
 ## Adaptive Median Filtering
-![Adaptive Median filtering](images\adaptive_filter_output.jpg )
+![Adaptive Median filtering](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/adaptive_filter_output.jpg)
 <p align = "center">Greayscale image with noise and adaptive median filtered output</p>
 
-![Adaptive Median filtering with diffrent noise](images\adaptive_filter_noise_vary.jpg)
+![Adaptive Median filtering with diffrent noise](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/adaptive_filter_noise_vary.jpg)
 <p align = "center">Adaptive median filtering with various noise levels</p>
 
 ## A few Notes
