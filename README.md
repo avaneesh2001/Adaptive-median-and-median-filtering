@@ -1,5 +1,9 @@
 # Adaptive Median and Median Filtering
- 
+
+## Table of Contents
+1. [Noise](#noise)
+    1.1[Image Noise](#image-noise)
+    
 ## Noise
 ### Image Noise
 Image noise is random variation of brightness or color information in  images, and is usually an aspect of electronic noise.. It is an undesirable by-product of image capture that obscures the desired information.
@@ -53,7 +57,7 @@ The code is available in "matlab code" folder\
 
 ### Median Filtering
 
-![Median filtering]https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/median_filter_output.jpg)
+![Median filtering](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/median_filter_output.jpg)
 <p align = "center">Greayscale image with noise and median filtered output</p>
 
 ![Median filtering with diffrent noise](https://github.com/avaneesh2001/Adaptive-median-and-median-filterin/blob/main/images/median_filter_noise_vary.jpg)
